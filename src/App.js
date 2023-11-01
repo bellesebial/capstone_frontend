@@ -9,7 +9,7 @@ import Calendar from './pages/calendar_page';
 import MyReservations from './pages/my_reservations';
 import AttendanceLogs from './pages/attendance_logs';
 import Attendance from './pages/attendance';
-import Home from './pages/home';
+import Home from './pages/login_page';
 
 function App() {
   return (
